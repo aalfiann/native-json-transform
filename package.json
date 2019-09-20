@@ -1,8 +1,8 @@
 {
   "name": "native-json-transform",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Restructuring and performing operations on JSON on the fly for NodeJS.",
-  "main": "index.js",
+  "main": "src/nativeJsonTransform.js",
   "scripts": {
     "test": "nyc --reporter=html --reporter=text mocha",
     "coverage": "nyc report --reporter=text-lcov | coveralls"
