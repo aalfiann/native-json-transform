@@ -360,3 +360,9 @@ The expected output.
 
 
 Enjoy!
+
+
+## Unit Test
+```bash
+$ npm test
+```
