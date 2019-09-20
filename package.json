@@ -1,0 +1,33 @@
+{
+  "name": "native-json-transform",
+  "version": "1.0.0",
+  "description": "Restructuring and performing operations on JSON on the fly for NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc --reporter=html --reporter=text mocha",
+    "coverage": "nyc report --reporter=text-lcov | coveralls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aalfiann/native-json-transform"
+  },
+  "keywords": [
+    "json",
+    "transform",
+    "on-the-fly",
+    "node"
+  ],
+  "author": "M ABD AZIZ ALFIAN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aalfiann/native-json-transform/issues"
+  },
+  "homepage": "https://github.com/aalfiann/native-json-transform",
+  "dependencies": {},
+  "devDependencies": {
+    "coveralls": "^3.0.6",
+    "mocha": "^6.2.0",
+    "mocha-lcov-reporter": "^1.3.0",
+    "nyc": "^14.1.1"
+  }
+}
