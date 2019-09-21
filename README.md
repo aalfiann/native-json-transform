@@ -13,6 +13,10 @@ Restructuring and performing operations on JSON on the fly for NodeJS.
 This is a fork version form original [node-json-transform](https://github.com/bozzltron/node-json-transform).  
 The difference about this with original version is that we already removed `Lodash` dependencies. So this library has no dependencies anymore. That is why we call it `native-json-transform`.
 
+**Note:**
+- Code slightly different with original but all features is same.
+- Minimum requirement `NodeJS 6`.
+
 ## Install use NPM
 ```bash
 $ npm install native-json-transform
@@ -363,6 +367,7 @@ Enjoy!
 
 
 ## Unit Test
+Unit test has been replaced from `jasmine-node` to `mocha` for better unit test.
 ```bash
 $ npm test
 ```

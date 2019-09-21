@@ -1,5 +1,4 @@
 // JsonTransform
-
 exports.JsonTransform = function(data, map){
 
 	return {
