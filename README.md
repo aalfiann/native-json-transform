@@ -2,7 +2,7 @@
 [![NPM](https://nodei.co/npm/native-json-transform.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/native-json-transform/)  
   
 [![npm version](https://img.shields.io/npm/v/native-json-transform.svg?style=flat-square)](https://www.npmjs.org/package/native-json-transform)
-[![Build Status](https://travis-ci.org/aalfiann/native-json-transform.svg?branch=master)](https://travis-ci.org/aalfiann/native-json-transform)
+[![Build Status](https://travis-ci.com/aalfiann/native-json-transform.svg?branch=master)](https://travis-ci.com/aalfiann/native-json-transform)
 [![Coverage Status](https://coveralls.io/repos/github/aalfiann/native-json-transform/badge.svg?branch=master)](https://coveralls.io/github/aalfiann/native-json-transform?branch=master)
 [![Known Vulnerabilities](https://snyk.io//test/github/aalfiann/native-json-transform/badge.svg?targetFile=package.json)](https://snyk.io//test/github/aalfiann/native-json-transform?targetFile=package.json)
 ![NPM download/month](https://img.shields.io/npm/dm/native-json-transform.svg)
